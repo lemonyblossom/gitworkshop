@@ -1,4 +1,19 @@
-### Emma Jensen
-Jag heter Emma och jag är 30 år gammal. Just nu är jag mitt uppe i min programmeringsutbildning. Att koda är min stora passion, och jag älskar att utforska nya teknologier och lösa problem. På min lediga tid tar jag gärna långa naturvandringar
+### Piano man
 
 ![pic](/Img/pianoman.png)
+
+
+
+<font color="green">
+I'm a passionate pianist, drawing inspiration from classical to contemporary music. Playing the piano is my lifelong joy, connecting me to emotions and people through melodies.</font>
+
+- Sunshine
+- CHocolate
+- Serenity
+- Adventure
+- Harmony
+
+1. Umbrella
+2. Bicycle
+3. Telescope
+4. Backpack
